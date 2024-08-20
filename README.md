@@ -184,4 +184,4 @@ The last step after that is to login to osTicket on the browser.
 <p>
 <img src="https://i.imgur.com/QIZWPlD.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 <p>
-This is the conclusion of the setup of the lab
+This is the conclusion of the setup lab!
