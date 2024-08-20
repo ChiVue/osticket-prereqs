@@ -169,7 +169,7 @@ We will now create a new database within HeidiSQL. In Heidi right click on the l
 
 The last step is to do some clean up. We will want to delete the setup folder in our system.
 <p>
-Delete: C:\inetpub\wwwroot\osTicket\setup. Only delete the setup folder and nothing else. We then will want to set the permissions back to "Read" only in the ost-config.php file.  
+Delete: C:\inetpub\wwwroot\osTicket\setup. Only delete the setup folder and nothing else. We will want to set the permissions back to "Read" only in the ost-config.php file.  
 <p>
 <img src="https://imgur.com/wFr0pkK.png" height="45%" width="45%" alt="Disk Sanitization Steps"/>
 </p>
